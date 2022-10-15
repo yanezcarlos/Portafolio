@@ -67,3 +67,11 @@ height: 300px
     padding-top: 100px;
 }
 
+.bg-negro{
+    background: #000;
+}
+
+header nav a:hover{
+    background: rgba(68, 68, 68, 0.4);
+    border-radius: 3px;
+}
